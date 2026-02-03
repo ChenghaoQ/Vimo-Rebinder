@@ -2,6 +2,8 @@
 
 [中文](README_zh.md) | [English](README.md)
 
+![banner](assets/Slide_zh.png)
+
 ### **Vimo Rebinder：掌握快捷键，提升工作效率**
 
 **Vimo Rebinder** 帮助你高效掌握大量快捷键，提升生产力，同时保持专注。通过减少对鼠标的依赖，优化工作流程，并支持复杂任务的单手操作。
