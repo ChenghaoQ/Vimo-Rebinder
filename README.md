@@ -58,6 +58,6 @@ The **Pro Version**, available through the **Microsoft Store** and **Mac App Sto
 ### **Free vs Pro Version**
 * **Free Version**: Offers basic global shortcut functionality, perfect for most everyday users.
 * **Pro Version**: Unlocks advanced features and additional customization options, available through the **Microsoft Store** and **Mac App Store**.
-* 
+
 ---
 
