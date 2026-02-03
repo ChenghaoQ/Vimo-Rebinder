@@ -1,4 +1,4 @@
-[中文版本](README_zh.md) | [English Version](README.md)
+[中文](README_zh.md) | [English](README.md)
 
 ### **Vimo Rebinder：掌握快捷键，提升工作效率**
 
