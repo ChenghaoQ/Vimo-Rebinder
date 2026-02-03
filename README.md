@@ -1,2 +1,3 @@
 # Vimo-Rebinder
-Vimo Rebinder Issue repo
+
+[中文版本](README_zh.md) | [English Version](README_en.md)
