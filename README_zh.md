@@ -1,3 +1,5 @@
+# Vimo Rebinder
+
 [中文](README_zh.md) | [English](README.md)
 
 ### **Vimo Rebinder：掌握快捷键，提升工作效率**
