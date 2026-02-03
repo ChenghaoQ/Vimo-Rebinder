@@ -1,5 +1,7 @@
 ### **Vimo Rebinder: Master Shortcuts, Boost Your Productivity**
 
+[中文版本](README_zh.md) | [English Version](README.md)
+
 **Vimo Rebinder** helps you efficiently master a large number of shortcuts, boosting your productivity while keeping you focused. By reducing reliance on the mouse, it enables faster workflows and supports single-handed operation for complex tasks.
 
 ---
