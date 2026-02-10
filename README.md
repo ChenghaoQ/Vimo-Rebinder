@@ -61,5 +61,5 @@ The **Pro Version**, available through the **Microsoft Store** and **Mac App Sto
 * **Free Version**: Offers basic global shortcut functionality, perfect for most everyday users.
 * **Pro Version**: Unlocks advanced features and additional customization options, available through the **Microsoft Store** and **Mac App Store**.
 
----
 
+**If you enjoy using Vimo Rebinder, please consider 🌟 starring us on GitHub! Your support means the world to us and helps us continue improving the app.**
