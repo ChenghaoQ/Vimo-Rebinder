@@ -1,6 +1,3 @@
-### **Vimo Rebinder: Master Shortcuts, Boost Your Productivity**
-
-[中文版本](README_zh.md) | [English Version](README.md)
 
 <p align="center">
   <img src="assets/readme/vimo-rebinder-icon.png" width="96" height="96" alt="Vimo Rebinder icon">
