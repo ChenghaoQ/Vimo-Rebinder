@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/shortcuts-manager.webp" alt="Vimo Rebinder shortcuts manager showing global shortcut groups and rebound keys">
+  <img src="assets/readme/shortcuts-manager.png" alt="Vimo Rebinder shortcuts manager showing global shortcut groups and rebound keys">
   <br>
   <em>One shortcut structure, automatically adapted to the active app.</em>
 </p>
@@ -81,11 +81,11 @@ Vimo sits in a different layer: it reduces the memory, movement, conflict, and c
 | Presets and insights | Start from prepared layouts and review shortcut usage over time. |
 
 <p align="center">
-  <img src="assets/readme/key-zones.webp" alt="Vimo Rebinder keyboard zone model with Super Key, text shortcuts, arrows, and repeat action keys">
+  <img src="assets/readme/key-zones.png" alt="Vimo Rebinder keyboard zone model with Super Key, text shortcuts, arrows, and repeat action keys">
 </p>
 
 <p align="center">
-  <img src="assets/readme/floating-hints.webp" alt="Vimo Rebinder floating shortcut hint panel showing next available actions">
+  <img src="assets/readme/floating-hints.png" alt="Vimo Rebinder floating shortcut hint panel showing next available actions">
 </p>
 
 ## Start in Three Steps
