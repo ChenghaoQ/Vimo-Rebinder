@@ -1,3 +1,7 @@
+<!--
+Canonical README language: English
+Localized files must preserve the product facts and section structure in this file.
+-->
 
 <p align="center">
   <img src="assets/readme/vimo-rebinder-icon.png" width="96" height="96" alt="Vimo Rebinder icon">
@@ -32,7 +36,19 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/shortcuts-manager.png" alt="Vimo Rebinder shortcuts manager showing global shortcut groups and rebound keys">
+  <strong>English</strong> ·
+  <a href="README_zh.md">简体中文</a> ·
+  <a href="README_ja.md">日本語</a> ·
+  <a href="README_ko.md">한국어</a> ·
+  <a href="README_de.md">Deutsch</a> ·
+  <a href="README_fr.md">Français</a> ·
+  <a href="README_es.md">Español</a> ·
+  <a href="README_pt-BR.md">Português</a> ·
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
+  <img src="assets/readme/vimo-rebinder-hero.png" alt="Vimo Rebinder shortcuts manager with the headline Every Shortcut at Your Fingertips">
   <br>
   <em>One shortcut structure, automatically adapted to the active app.</em>
 </p>
@@ -81,11 +97,15 @@ Vimo sits in a different layer: it reduces the memory, movement, conflict, and c
 | Presets and insights | Start from prepared layouts and review shortcut usage over time. |
 
 <p align="center">
-  <img src="assets/readme/key-zones.png" alt="Vimo Rebinder keyboard zone model with Super Key, text shortcuts, arrows, and repeat action keys">
+  <img src="assets/readme/key-zones.png" alt="Vimo Rebinder keyboard layout showing Superkey, text shortcuts, arrow keys, repeat action, and extension zones">
 </p>
 
 <p align="center">
-  <img src="assets/readme/floating-hints.png" alt="Vimo Rebinder floating shortcut hint panel showing next available actions">
+  <img src="assets/readme/grouping-shortcuts.png" alt="Vimo Rebinder shortcut grouping example showing complex shortcuts simplified into Superkey sequences">
+</p>
+
+<p align="center">
+  <img src="assets/readme/key-hints.png" alt="Vimo Rebinder key hints showing available commands after pressing Superkey">
 </p>
 
 ## Start in Three Steps
@@ -167,7 +187,3 @@ The Super Key, app-specific workflows, floating hints, and rebound shortcut exec
 ## Proprietary Software
 
 Vimo Rebinder is proprietary software. This repository is the public product and release entry for Vimo Rebinder, not an open-source license grant.
-
-
-
-
